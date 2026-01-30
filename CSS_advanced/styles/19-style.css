@@ -16,7 +16,7 @@ html {
 /* Sections
    ========================================================================== */
 
-/**
+11;rgb:2b2b/2b2b/2b2b/**
  * Remove the margin in all browsers.
  */
 
@@ -532,7 +532,7 @@ ul.row{
 
 .footer-copyright{
   margin: 0;
-  font-size: var(--text-color);
+  font-size: var(--font-size-small);
   color: var(--text-color);
 }
 
