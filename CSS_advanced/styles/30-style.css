@@ -726,16 +726,3 @@ ul.row{
     opacity: 1;
 }
 
-.card-testimonial .card-quote {
-    position: relative;
-}
-
-.card-testimonial .card-quote::before {
-    content: "\201C";
-    position: absolute;
-    top: -4.5;
-    left: -1rem;
-    color: #efeded;
-    font-size: 10rem;
-    z-index: -1;
-}
